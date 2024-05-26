@@ -32,8 +32,8 @@ You are also free to attempt other strategies beyond the one in the assignment
 
 ## Repository Structure
 The repository is structured as follows:
-- `data/`: contains the dataset (train and test sets) in CSV format;
-- `notebooks/`: contains the Jupyter notebook with the analysis;
-- `predictions/`: contains the predictions on the test set in txt format.
+- `data`: contains the dataset (train and test sets) in CSV format;
+- `nb.ipynb`: contains the Jupyter notebook with the analysis;
+- `predictions.txt`: contains the predictions on the test set in txt format.
 
 
